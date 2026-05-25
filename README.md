@@ -1,2 +1,3 @@
 # donna-motta.github.io
-Instructional Design and eLearning Portfolio featuring Rise and Storyline projects
+Instructional Designer | eLearning Developer
+Portfolio featuring Articulate Rise and Storyline projects
